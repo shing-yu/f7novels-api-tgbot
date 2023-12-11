@@ -5,3 +5,4 @@ test.py
 recovery/
 output/
 logs/
+api.db
